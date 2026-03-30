@@ -1,11 +1,13 @@
+# Core App
+streamlit>=1.31.0
+pandas>=2.1.0
+numpy>=1.26.0
 
-streamlit==1.28.0
-pandas==2.0.2
-numpy==1.25.0
-altair==5.0.1
-scikit-learn==1.3.0
-joblib==1.3.2
+# Visualization & ML
+altair>=5.1.0
+scikit-learn>=1.3.0
+joblib>=1.3.2
 
-
-setuptools>=65.5.0
-wheel>=0.41.2
+# Build Tools (Streamlit Cloud handles these, but keeping them updated helps)
+setuptools>=69.0.0
+wheel>=0.42.0
