@@ -38,8 +38,8 @@ def load_css():
     }
 
     .subtitle {
-        text-align: center;
-        color: #666;
+        text-align: center;;
+        color: red;
         margin-bottom: 20px;
     }
 
@@ -48,6 +48,7 @@ def load_css():
         border-radius: 12px !important;
         border: 2px solid #ddd !important;
         padding: 12px !important;
+                
     }
 
     /* Button */
