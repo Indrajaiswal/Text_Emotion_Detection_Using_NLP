@@ -26,3 +26,7 @@ A web application that detects the **emotion in a given text** using Natural Lan
 - **Altair** for data visualization
 
 ---
+## 📸 Screenshots
+![Dashboard Screenshot](text_emotion.png)
+
+---
